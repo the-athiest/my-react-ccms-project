@@ -1,0 +1,144 @@
+/* ==========================================================================
+   CIVITAS - Responsive Breakpoints & Adaptations
+   ========================================================================== */
+
+/* Laptop / Desktop (<= 1024px) */
+@media (max-width: 1024px) {
+  .details-grid {
+    grid-template-columns: 1fr 300px;
+    gap: 1.5rem;
+  }
+
+  .board-columns-grid {
+    grid-template-columns: repeat(5, minmax(190px, 1fr));
+  }
+}
+
+/* Tablet (<= 768px) */
+@media (max-width: 768px) {
+  .main-content {
+    padding: 1.75rem 1rem 3rem;
+  }
+
+  h1 { font-size: 1.85rem; }
+  h2 { font-size: 1.5rem; }
+  h3 { font-size: 1.15rem; }
+
+  .hero-section {
+    padding: 1.5rem 0 1rem;
+  }
+
+  .hero-title {
+    font-size: 1.95rem;
+  }
+
+  .hero-subtitle {
+    font-size: 1.025rem;
+  }
+
+  .details-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .details-main {
+    padding: 1.5rem;
+  }
+
+  .form-container {
+    padding: 1.5rem;
+  }
+
+  .priority-selector-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .pulse-categories-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .board-columns-grid {
+    display: flex;
+    flex-direction: column;
+    overflow-x: visible;
+  }
+
+  .board-column {
+    min-height: auto;
+  }
+
+  .filter-row {
+    grid-template-columns: 1fr;
+  }
+
+  .footer-top {
+    flex-direction: column;
+    gap: 1.5rem;
+  }
+
+  .footer-links {
+    flex-direction: column;
+    gap: 0.75rem;
+  }
+}
+
+/* Mobile (<= 480px / 375px) */
+@media (max-width: 480px) {
+  .navbar-container {
+    padding: 0 1rem;
+    height: 3.75rem;
+  }
+
+  .brand-logo {
+    font-size: 1.15rem;
+  }
+
+  .hero-title {
+    font-size: 1.65rem;
+  }
+
+  .hero-actions {
+    flex-direction: column;
+    width: 100%;
+  }
+
+  .hero-actions .btn {
+    width: 100%;
+  }
+
+  .complaint-card {
+    padding: 1.15rem;
+  }
+
+  .complaint-card-header,
+  .complaint-card-footer {
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 0.75rem;
+  }
+
+  .complaint-meta-info {
+    width: 100%;
+    justify-content: space-between;
+  }
+
+  .track-search-form {
+    flex-direction: column;
+  }
+
+  .track-search-form .btn {
+    width: 100%;
+  }
+
+  .modal-card {
+    padding: 1.25rem;
+  }
+
+  .modal-actions {
+    flex-direction: column;
+    width: 100%;
+  }
+
+  .modal-actions .btn {
+    width: 100%;
+  }
+}

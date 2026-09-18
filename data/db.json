@@ -1,0 +1,488 @@
+{
+  "complaints": [
+    {
+      "id": "CV-1001",
+      "title": "Wi-Fi access points offline across second floor labs",
+      "category": "Internet / Wi-Fi",
+      "location": "Block A - Second Floor Computing Labs",
+      "priority": "High",
+      "description": "The wireless access points in labs 201 through 204 are failing to assign IP addresses via DHCP. Students working on project submissions are experiencing constant disconnections.",
+      "image": "https://images.unsplash.com/photo-1544197150-b99a580bb7a8?auto=format&fit=crop&w=800&q=80",
+      "status": "In Progress",
+      "department": "IT Support",
+      "supportCount": 42,
+      "reportedDate": "2026-08-23",
+      "activity": [
+        {
+          "id": 1,
+          "action": "Complaint submitted by student",
+          "date": "2026-08-23",
+          "time": "09:15 AM"
+        },
+        {
+          "id": 2,
+          "action": "Acknowledged and received by Helpdesk",
+          "date": "2026-08-23",
+          "time": "09:40 AM"
+        },
+        {
+          "id": 3,
+          "action": "Under Review by Network Operations",
+          "date": "2026-08-23",
+          "time": "11:00 AM"
+        },
+        {
+          "id": 4,
+          "action": "Assigned to IT Support engineer",
+          "date": "2026-08-23",
+          "time": "01:30 PM"
+        },
+        {
+          "id": 5,
+          "action": "Switch firmware upgrade and cable diagnostics initiated",
+          "date": "2026-08-24",
+          "time": "10:00 AM"
+        }
+      ],
+      "resolutionNote": ""
+    },
+    {
+      "id": "CV-1002",
+      "title": "Ceiling water seepage near lecture podium in Room 304",
+      "category": "Infrastructure",
+      "location": "Academic Block C - Room 304",
+      "priority": "High",
+      "description": "Rainwater seepage from the roof is dripping directly over the electrical conduit near the instructor podium. Poses a potential hazard during rainy hours.",
+      "image": "https://images.unsplash.com/photo-1584622650111-993a426fbf0a?auto=format&fit=crop&w=800&q=80",
+      "status": "Assigned",
+      "department": "Civil & Maintenance",
+      "supportCount": 28,
+      "reportedDate": "2026-08-24",
+      "activity": [
+        {
+          "id": 1,
+          "action": "Complaint submitted by student representative",
+          "date": "2026-08-24",
+          "time": "08:30 AM"
+        },
+        {
+          "id": 2,
+          "action": "Received by Campus Facility Desk",
+          "date": "2026-08-24",
+          "time": "08:55 AM"
+        },
+        {
+          "id": 3,
+          "action": "Assigned to Civil & Maintenance roofing team",
+          "date": "2026-08-24",
+          "time": "11:20 AM"
+        }
+      ],
+      "resolutionNote": ""
+    },
+    {
+      "id": "CV-1003",
+      "title": "Faulty air conditioning unit causing loud buzzing noise",
+      "category": "Classroom facilities",
+      "location": "Management Block - Seminar Hall 2",
+      "priority": "Medium",
+      "description": "The central unit AC-3 in Seminar Hall 2 produces severe mechanical vibration and noise, making lectures barely audible in the back rows.",
+      "image": "",
+      "status": "Under Review",
+      "department": "Electrical & HVAC",
+      "supportCount": 15,
+      "reportedDate": "2026-08-24",
+      "activity": [
+        {
+          "id": 1,
+          "action": "Complaint submitted",
+          "date": "2026-08-24",
+          "time": "10:10 AM"
+        },
+        {
+          "id": 2,
+          "action": "Received by Facilities Office",
+          "date": "2026-08-24",
+          "time": "10:45 AM"
+        },
+        {
+          "id": 3,
+          "action": "Placed Under Review for scheduled inspection",
+          "date": "2026-08-24",
+          "time": "02:15 PM"
+        }
+      ],
+      "resolutionNote": ""
+    },
+    {
+      "id": "CV-1004",
+      "title": "Low water pressure in 3rd floor washrooms",
+      "category": "Hostel",
+      "location": "Boys Hostel 2 - 3rd Floor East Wing",
+      "priority": "High",
+      "description": "There is negligible water pressure in all showers and faucets on the 3rd floor during morning rush hours between 7:00 AM and 9:00 AM.",
+      "image": "",
+      "status": "In Progress",
+      "department": "Plumbing & Sanitation",
+      "supportCount": 56,
+      "reportedDate": "2026-08-22",
+      "activity": [
+        {
+          "id": 1,
+          "action": "Complaint submitted",
+          "date": "2026-08-22",
+          "time": "07:45 AM"
+        },
+        {
+          "id": 2,
+          "action": "Received by Hostel Warden Desk",
+          "date": "2026-08-22",
+          "time": "08:15 AM"
+        },
+        {
+          "id": 3,
+          "action": "Assigned to Plumbing & Sanitation",
+          "date": "2026-08-22",
+          "time": "09:30 AM"
+        },
+        {
+          "id": 4,
+          "action": "Pressure booster pump valve replacement under progress",
+          "date": "2026-08-23",
+          "time": "03:00 PM"
+        }
+      ],
+      "resolutionNote": ""
+    },
+    {
+      "id": "CV-1005",
+      "title": "Overcrowding and delayed departure on Route 14 morning bus",
+      "category": "Transport",
+      "location": "North Campus Bus Terminal - Route 14",
+      "priority": "Medium",
+      "description": "Bus 14 regularly departs 20 minutes behind schedule from the outer metro junction, leading to extreme overcrowding and safety hazards.",
+      "image": "",
+      "status": "Received",
+      "department": "Transport Dept",
+      "supportCount": 37,
+      "reportedDate": "2026-08-25",
+      "activity": [
+        {
+          "id": 1,
+          "action": "Complaint submitted by commuter forum",
+          "date": "2026-08-25",
+          "time": "08:20 AM"
+        },
+        {
+          "id": 2,
+          "action": "Received by Transport Office",
+          "date": "2026-08-25",
+          "time": "09:00 AM"
+        }
+      ],
+      "resolutionNote": ""
+    },
+    {
+      "id": "CV-1006",
+      "title": "Central Library digital catalogue terminals non-responsive",
+      "category": "Library",
+      "location": "Central Library - Ground Floor Search Kiosks",
+      "priority": "Low",
+      "description": "Two of the OPAC terminals on the ground floor are freezing on the search results screen, requiring hard restarts by the librarian.",
+      "image": "",
+      "status": "Resolved",
+      "department": "IT Support",
+      "supportCount": 11,
+      "reportedDate": "2026-08-21",
+      "activity": [
+        {
+          "id": 1,
+          "action": "Complaint submitted",
+          "date": "2026-08-21",
+          "time": "11:15 AM"
+        },
+        {
+          "id": 2,
+          "action": "Received by Library Administrator",
+          "date": "2026-08-21",
+          "time": "11:45 AM"
+        },
+        {
+          "id": 3,
+          "action": "Assigned to IT Support",
+          "date": "2026-08-21",
+          "time": "02:00 PM"
+        },
+        {
+          "id": 4,
+          "action": "Browser cache flushed and system memory upgraded",
+          "date": "2026-08-22",
+          "time": "04:30 PM"
+        },
+        {
+          "id": 5,
+          "action": "Marked Resolved by IT technician",
+          "date": "2026-08-23",
+          "time": "10:00 AM"
+        }
+      ],
+      "resolutionNote": "Replaced RAM modules on Kiosks 1 and 2 and updated the catalog client to v3.4. System tested successfully."
+    },
+    {
+      "id": "CV-1007",
+      "title": "Unsanitary waste disposal area behind main food court",
+      "category": "Cleanliness",
+      "location": "Central Canteen - Rear Service Alley",
+      "priority": "High",
+      "description": "Organic waste bins are overflowing into the pedestrian walkway, attracting stray animals and creating bad odor near eating areas.",
+      "image": "https://images.unsplash.com/photo-1532996122724-e3c354a0b15b?auto=format&fit=crop&w=800&q=80",
+      "status": "Resolved",
+      "department": "Housekeeping & Hygiene",
+      "supportCount": 49,
+      "reportedDate": "2026-08-20",
+      "activity": [
+        {
+          "id": 1,
+          "action": "Complaint submitted by hygiene committee",
+          "date": "2026-08-20",
+          "time": "01:10 PM"
+        },
+        {
+          "id": 2,
+          "action": "Received and escalated to Chief Warden",
+          "date": "2026-08-20",
+          "time": "01:40 PM"
+        },
+        {
+          "id": 3,
+          "action": "Assigned to Housekeeping & Hygiene",
+          "date": "2026-08-20",
+          "time": "02:15 PM"
+        },
+        {
+          "id": 4,
+          "action": "Deep cleaning and sealed dumpster placement completed",
+          "date": "2026-08-21",
+          "time": "05:00 PM"
+        },
+        {
+          "id": 5,
+          "action": "Marked Resolved",
+          "date": "2026-08-22",
+          "time": "09:00 AM"
+        }
+      ],
+      "resolutionNote": "Installed 3 high-capacity sealed dumpsters and instituted twice-daily waste clearance schedule (11 AM and 4 PM)."
+    },
+    {
+      "id": "CV-1008",
+      "title": "Broken glass panel on fire extinguisher box in Science Block",
+      "category": "Infrastructure",
+      "location": "Science Block B - Corridor 1st Floor",
+      "priority": "Medium",
+      "description": "The protective glass cover on the emergency hose box has shattered edges, posing a cut risk to passing students in the hallway.",
+      "image": "",
+      "status": "Reported",
+      "department": "General Administration",
+      "supportCount": 9,
+      "reportedDate": "2026-08-25",
+      "activity": [
+        {
+          "id": 1,
+          "action": "Complaint submitted by student",
+          "date": "2026-08-25",
+          "time": "09:10 AM"
+        }
+      ],
+      "resolutionNote": ""
+    },
+    {
+      "id": "CV-1009",
+      "title": "Projector HDMI interface damaged in Lecture Hall LH-01",
+      "category": "Academic facilities",
+      "location": "Lecture Complex - LH-01",
+      "priority": "High",
+      "description": "The podium HDMI connector has bent pins, preventing guest lecturers and students from projecting slides during presentations.",
+      "image": "",
+      "status": "Verified",
+      "department": "AV & Media Support",
+      "supportCount": 31,
+      "reportedDate": "2026-08-18",
+      "activity": [
+        {
+          "id": 1,
+          "action": "Complaint submitted",
+          "date": "2026-08-18",
+          "time": "02:30 PM"
+        },
+        {
+          "id": 2,
+          "action": "Received by AV Support Desk",
+          "date": "2026-08-18",
+          "time": "03:00 PM"
+        },
+        {
+          "id": 3,
+          "action": "Assigned to AV technician",
+          "date": "2026-08-18",
+          "time": "04:15 PM"
+        },
+        {
+          "id": 4,
+          "action": "New wall-plate transmitter installed",
+          "date": "2026-08-19",
+          "time": "11:30 AM"
+        },
+        {
+          "id": 5,
+          "action": "Marked Resolved by AV team",
+          "date": "2026-08-19",
+          "time": "03:00 PM"
+        },
+        {
+          "id": 6,
+          "action": "Resolution verified and confirmed by student",
+          "date": "2026-08-20",
+          "time": "10:15 AM"
+        }
+      ],
+      "resolutionNote": "Replaced wall HDMI interface with reinforced gold-plated connector and verified dual display sync."
+    },
+    {
+      "id": "CV-1010",
+      "title": "Street lights unlit on path between Girls Hostel and Library",
+      "category": "Electrical",
+      "location": "South Perimeter Pathway",
+      "priority": "High",
+      "description": "Four consecutive solar street lights are completely unlit after 7:30 PM, creating a safety issue for students returning late from library study sessions.",
+      "image": "https://images.unsplash.com/photo-1509198397868-475647b2a1e5?auto=format&fit=crop&w=800&q=80",
+      "status": "In Progress",
+      "department": "Electrical & HVAC",
+      "supportCount": 63,
+      "reportedDate": "2026-08-22",
+      "activity": [
+        {
+          "id": 1,
+          "action": "Complaint submitted by Student Council",
+          "date": "2026-08-22",
+          "time": "08:00 PM"
+        },
+        {
+          "id": 2,
+          "action": "Received by Security & Facilities Chief",
+          "date": "2026-08-22",
+          "time": "08:30 PM"
+        },
+        {
+          "id": 3,
+          "action": "Assigned to Electrical Dept for priority action",
+          "date": "2026-08-23",
+          "time": "08:30 AM"
+        },
+        {
+          "id": 4,
+          "action": "Battery controller replacements underway",
+          "date": "2026-08-24",
+          "time": "02:00 PM"
+        }
+      ],
+      "resolutionNote": ""
+    },
+    {
+      "id": "CV-1011",
+      "title": "Water cooler dispensing lukewarm water in Sports Complex",
+      "category": "Other",
+      "location": "Sports Complex - Indoor Badminton Court",
+      "priority": "Low",
+      "description": "The chilling compressor on the main drinking water unit is not engaging, leaving athletes with ambient temperature water during training.",
+      "image": "",
+      "status": "Received",
+      "department": "Civil & Maintenance",
+      "supportCount": 9,
+      "reportedDate": "2026-08-25",
+      "activity": [
+        {
+          "id": 1,
+          "action": "Complaint submitted by sports club captain",
+          "date": "2026-08-25",
+          "time": "07:30 AM"
+        },
+        {
+          "id": 2,
+          "action": "Received by Maintenance Dispatch",
+          "date": "2026-08-25",
+          "time": "08:15 AM"
+        }
+      ],
+      "resolutionNote": ""
+    },
+    {
+      "id": "CV-1012",
+      "title": "Food quality and reheating inconsistencies at South Canteen",
+      "category": "Canteen",
+      "location": "South Campus Cafeteria - Counter 3",
+      "priority": "Medium",
+      "description": "Pre-packaged lunch boxes served between 1:30 PM and 2:30 PM were found to be improperly heated and lacking fresh ingredients.",
+      "image": "",
+      "status": "Reopened",
+      "department": "Canteen Committee",
+      "supportCount": 44,
+      "reportedDate": "2026-08-19",
+      "activity": [
+        {
+          "id": 1,
+          "action": "Complaint submitted",
+          "date": "2026-08-19",
+          "time": "02:15 PM"
+        },
+        {
+          "id": 2,
+          "action": "Received by Food Safety Officer",
+          "date": "2026-08-19",
+          "time": "03:00 PM"
+        },
+        {
+          "id": 3,
+          "action": "Assigned to Canteen Committee",
+          "date": "2026-08-20",
+          "time": "09:30 AM"
+        },
+        {
+          "id": 4,
+          "action": "Vendor warning letter issued and marked Resolved",
+          "date": "2026-08-21",
+          "time": "04:00 PM"
+        },
+        {
+          "id": 5,
+          "action": "Complaint reopened after student verification. Issues persist with afternoon batch quality.",
+          "date": "2026-08-23",
+          "time": "01:45 PM"
+        }
+      ],
+      "resolutionNote": "First warning given to caterer. Reopened due to recurrent feedback; supervisor surprise inspection scheduled."
+    },
+    {
+      "id": "CV-1013",
+      "title": "tap broked",
+      "category": "Hostel",
+      "location": "block3b",
+      "priority": "High",
+      "description": "sdafwaefqwfgwegw3wetw3t234",
+      "image": "https://images.unsplash.com/photo-1563379091339-03b21ab4a4f8?auto=format&fit=crop&w=800&q=80",
+      "status": "Reported",
+      "department": "General Administration",
+      "supportCount": 1,
+      "reportedDate": "2026-08-25",
+      "activity": [
+        {
+          "id": 1,
+          "action": "Complaint submitted by student",
+          "date": "2026-08-25",
+          "time": "12:07 PM"
+        }
+      ],
+      "resolutionNote": ""
+    }
+  ]
+}
