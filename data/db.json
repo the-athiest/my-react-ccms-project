@@ -483,6 +483,28 @@
         }
       ],
       "resolutionNote": ""
+    },
+    {
+      "id": "CV-1014",
+      "title": "lyjgyj",
+      "category": "Infrastructure",
+      "location": "jytd",
+      "priority": "Low",
+      "description": "mfhhxnhjthhhhhhhhhhhhhhhyuj",
+      "image": "https://images.unsplash.com/photo-1563379091339-03b21ab4a4f8?auto=format&fit=crop&w=800&q=80",
+      "status": "Reported",
+      "department": "General Administration",
+      "supportCount": 1,
+      "reportedDate": "2026-09-18",
+      "activity": [
+        {
+          "id": 1,
+          "action": "Complaint submitted by student",
+          "date": "2026-09-18",
+          "time": "06:21 PM"
+        }
+      ],
+      "resolutionNote": ""
     }
   ]
 }
